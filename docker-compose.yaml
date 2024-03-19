@@ -38,5 +38,5 @@ services:
       - catalogue
 
   mysql:
-    images: mysql:1
+    image: mysql:1
    
